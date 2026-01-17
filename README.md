@@ -7,4 +7,4 @@ The original LocoIO design by John Jabour was further developed by [Hans Deloof]
 
 For more details about our own design please refer to the manual [wLocoIO-2 Bauanleitung.pdf](https://1drv.ms/b/c/a13c984302a24415/ERVEogJDmDwggKHNBQAAAAABGX3rws76FhAw2bXBd0WxxA), written by W.Hückel.<br>
 
-Addional information about my experiences can be found in [LocoIO-Editor](https://github.com/Kruemelbahn/LocoIO-Editor/tree/main/Documentation)
+Addional information about my experiences can be found in [LocoIO](https://github.com/Kruemelbahn/LocoIO/tree/main/Documentation)
